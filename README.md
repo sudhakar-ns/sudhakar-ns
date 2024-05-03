@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@shinde-imasen/30-nites-of-code)  
-  ![@shinde-imasen #30NitesOfCode](https://www.codedex
+  ![@shinde-imasen #30NitesOfCode](https://www.codedex.io/api/petStatus?user=shinde-imasen)
